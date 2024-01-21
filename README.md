@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**rautsrijana/RautSrijana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center">Hi 👋, I'm Srijana Raut</h1>
+<h3 align="center">A passionate Software Developer</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rautsrijana" alt="rautsrijana" /> </p>
+
+- 🌱 Graduate Student, Currently learning **Deep Learning, NLP**
+
+- 📝 My Portfolio  [Profile - Srijana Raut](https://rautsrijana.github.io/My-Profile/about.html)
+
+- 💬 Ask me about **Full Stack Development, Machine Learning**
+
+- 📫 How to reach me  - **srijanaraut.sr@gmail.com**
+
+- 📫 Connect me on Linkedin - **https://www.linkedin.com/in/srijanaraut/**
+
