@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rautsrijana" alt="rautsrijana" /> </p>
 
-- 🌱 Graduate Student, Currently learning **FullStack!**
+- 🌱 Graduate Student, Constant learner!
 
 - 📝 My Portfolio  [Profile - Srijana Raut](https://rautsrijana.github.io/My-Profile/about.html)
 
