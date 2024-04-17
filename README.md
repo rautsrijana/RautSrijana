@@ -7,11 +7,7 @@
 
 - 🌱 Graduate Student, Constant learner!
 
-- 📝 My Portfolio  [Profile - Srijana Raut](https://rautsrijana.github.io/My-Profile/about.html)
 
 - 💬 Ask me about **Full Stack Development, Machine Learning**
 
-- 📫 How to reach me  - **srijanaraut.sr@gmail.com**
-
-- 📫 Connect me on Linkedin - **https://www.linkedin.com/in/srijanaraut/**
 
